@@ -1,4 +1,4 @@
-def imageName = richinex/movies-store
+def imageName = 'richinex/movies-store'
 
 node('workers'){
     stage('Checkout'){
